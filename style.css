@@ -1,0 +1,38 @@
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+header{
+    width: 100%;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    padding: 30px 1px;
+    background-image: linear-gradient(#000000, #000000);
+    opacity: 90%;
+}
+.firstbox {
+    font-size: 70px;
+    color: rgb(234, 230, 230); 
+    margin-right: 600px;
+}
+nav ul{
+
+   padding: 10pt;
+   margin: 30pt;
+}
+nav li{
+    display: inline-flex;
+    font-size: 15pt;
+    padding: 2pc;
+    margin: 20pt;
+}
+
+a {color: #ffffff;
+}
+a:hover {
+    color: rgb(250, 250, 1);
+}
